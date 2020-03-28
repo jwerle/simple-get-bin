@@ -1,4 +1,4 @@
-const debug = require('debug')('simple-get-cli')
+const debug = require('debug')('simple-get-bin')
 const argv = require('minimist')(process.argv.slice(2))
 const get = require('simple-get')
 

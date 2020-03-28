@@ -16,4 +16,3 @@ jobs:
           npx . https://example.com > example.com.0
           npx . --url https://example.com > example.com.1
           diff example.com.0 example.com.1
-

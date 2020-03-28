@@ -1,4 +1,4 @@
-simple-get-cli
+simple-get-bin
 ==============
 
 > A simple command line interface wrapper for [simple-get][simple-get] backed by [minimist][minimist].
@@ -6,21 +6,20 @@ simple-get-cli
 ## Installation
 
 ```sh
-$ npm install simple-get-cli -g
+$ npm install simple-get-bin -g
 ```
 
 ## Usage
 
 ```sh
-$ npx simple-get-cli https://example.com
-$ npx simple-get-cli --url https://example.com --headers.user-agent='My User Agent'
+$ npx simple-get-bin https://example.com
+$ npx simple-get-bin --url https://example.com --headers.user-agent='My User Agent'
 ```
 
 ## See Also
 
 * [minimist][minimist]
 * [simple-get][simple-get]
-
 
 ## License
 
