@@ -1,6 +1,6 @@
 {
   "name": "simple-get-bin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple command line interface wrapper for 'simple-get' backed by minimist.",
   "main": "index.js",
   "bin": {
